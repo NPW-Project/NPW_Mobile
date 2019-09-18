@@ -4,18 +4,18 @@
 
 Android mobile wallet for NewPowerCoin.
 
-**For more information, please visit: [Mobile wallet introduce web page](http://npw.live/m/)**
+**For more information, please visit: [Mobile wallet Introduction web page](http://npw.live/m/)**
 
 
 ## Update notes
 
 **v1.1.22**
 
-- Added plug-in managing mechanism to install or uninstall plug-ins
-- Added browser plug-in,  users can query transaction details through the block browser
-- Opened the advertising platform registration review mechanism, users can use self-recharging and posting advertisement after registration
-- Optimized the advertising publishing process of advertising platform
-- Optimized the experience of startup advertising and improved the quality of display advertising
+- Added plug-in managing mechanism to install or uninstall plug-ins.
+- Added browser plug-in,  users can query transaction details through the blockchain explorer.
+- Advertising platform registration is now opened for beta testers, account review is no longer needed. Users can self recharge and publish online  advertisement through the advertising platform now.
+- Optimized the advertising publishing process of advertising platform.
+- Optimized the experience of startup advertising and improved the quality of advertising display.
 
 **v1.1.20**
 
