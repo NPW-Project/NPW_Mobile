@@ -9,6 +9,14 @@ Android mobile wallet for NewPowerCoin.
 
 ## Update notes
 
+**v1.1.22**
+
+- Added plug-in managing mechanism to install or uninstall plug-ins
+- Added browser plug-in,  users can query transaction details through the block browser
+- Opened the advertising platform registration review mechanism, users can use self-recharging and posting advertisement after registration
+- Optimized the advertising publishing process of advertising platform
+- Optimized the experience of startup advertising and improved the quality of display advertising
+
 **v1.1.20**
 
 - Fixed the problem of misalignment in various types of smartphone in the classification column of transaction records;
