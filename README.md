@@ -9,6 +9,12 @@ Android mobile wallet for NewPowerCoin.
 
 ## Update notes
 
+**v1.1.23**
+
+- Updated the starting screen advertisement SDK, avoiding the starting crash. 
+- Repaired an issue of the occasional crash of the advertising platform billing service.
+- Adjusted Tap Tok bonus points, and the amount of rewards is adjusted dynamically now.
+
 **v1.1.22**
 
 - Added plug-in managing mechanism to install or uninstall plug-ins.
